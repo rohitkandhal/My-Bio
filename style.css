@@ -15,7 +15,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #f4f5f5; font-family: 'Calibiri', helvetica, arial, sans-serif; font-size: 16px; color: #222;}
+html, body {background: #ffffff; font-family: 'Calibiri', helvetica, arial, sans-serif; font-size: 16px; color: #222;}
 
 .clear {clear: both;}
 
@@ -29,7 +29,8 @@ p {
 #cv {
 	width: 90%;
 	max-width: 850px;
-	background: #fefdfa; /*#f4f5f5 ;*/
+	background: #fffff;
+	/*background: #fefdfa; /*#f4f5f5 ;*/
 	margin: 30px auto;
 }
 
