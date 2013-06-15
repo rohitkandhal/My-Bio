@@ -29,13 +29,12 @@ p {
 #cv {
 	width: 90%;
 	max-width: 850px;
-	background: #fffff;
 	/*background: #fefdfa; /*#f4f5f5 ;*/
 	margin: 30px auto;
 }
 
 .mainDetails {
-	padding: 25px 35px;
+	padding: 15px 30px;
 	border-bottom: 2px solid #cf8a05;
 	background: #fefdfa; /*#ededed;*/
 }
@@ -138,6 +137,11 @@ section:last-child {
 	width: 74%;
 	font-size: .95em;
 }
+
+.myfont {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 1.0em;
+}
 .sectionContent h2 {
 	font-family: "PT Sans", sans-serif;
 	font-size: 1.15em;
@@ -153,7 +157,6 @@ section:last-child {
 }
 
 .sectionContent ul {
-	list-style-type: 'disc';
 	margin-top: 2px;
 }
 
