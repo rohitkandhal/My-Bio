@@ -7,6 +7,10 @@ padding:0;
 vertical-align:baseline;
 }
 
+.well
+{
+	background-color: #ffffff;
+}
 /*
 Colors
 Apple heading #92989E
@@ -29,19 +33,19 @@ p {
 #cv {
 	width: 90%;
 	max-width: 850px;
-	background: #fffff;
 	/*background: #fefdfa; /*#f4f5f5 ;*/
 	margin: 30px auto;
 }
 
 .mainDetails {
-	padding: 25px 35px;
+	padding: 15px 30px;
 	border-bottom: 2px solid #cf8a05;
 	background: #fefdfa; /*#ededed;*/
 }
 
 #name h1 {
 	font-size: 2.5em;
+	
 	font-family: 'Georgia', Arial, Helvetica, sans-serif;
 	margin-bottom: -6px;
 	color: #ac1f27; /*#8A9298;*/
@@ -50,7 +54,7 @@ p {
 #name h2 {
 	font-size: 1.3em;
 	margin-left: 2px;
-	font-family: 'Roboto', Arial, sans-serif;
+	font-family: 'PT+Sans', Arial, Helvetica, sans-serif;
 	color: #ac1f27;
 	
 }
@@ -99,7 +103,6 @@ p {
 	-o-transition: all .3s ease-in;
 	-ms-transition: all .3s ease-in;
 	transition: all .3s ease-in;
-	text-decoration:underline;
 }
 
 #contactDetails ul li a:hover { 
@@ -133,10 +136,15 @@ section:last-child {
 }
 
 .sectionContent {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'PT Sans', sans-serif;
 	float: right;
 	width: 74%;
 	font-size: .95em;
+}
+
+.myfont {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 1.0em;
 }
 .sectionContent h2 {
 	font-family: "PT Sans", sans-serif;
@@ -153,14 +161,14 @@ section:last-child {
 }
 
 .sectionContent ul {
-	list-style-type: 'disc';
 	margin-top: 2px;
 }
 
 .sectionContent  ul li {
 	color: #222;
 	margin-left: 20px;
-	font-size: 1em;
+	margin-top:5px;
+	font-size: .95em;
 }
 
 .subDetails {
