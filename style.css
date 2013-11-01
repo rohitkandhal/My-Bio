@@ -7,30 +7,30 @@ padding:0;
 vertical-align:baseline;
 }
 
-/*
-Colors
-Apple heading #92989E
-*/
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #ffffff; font-family: 'Calibiri', helvetica, arial, sans-serif; font-size: 16px; color: #222;}
+html, body {
+	background: #ffffff; 
+	font-family: 'Calibiri', helvetica, arial, sans-serif; 
+	font-size: 16px; 
+	color: #333;
+}
 
 .clear {clear: both;}
 
 p {
 	font-size: 1em;
 	line-height: 1.4em;
-	margin-bottom: 20px;
-	color: #444;
+	margin-bottom: 15px;
+	color: #333;
 }
 
 #cv {
 	width: 90%;
 	max-width: 850px;
 	background: #fffff;
-	/*background: #fefdfa; /*#f4f5f5 ;*/
 	margin: 30px auto;
 }
 
@@ -155,7 +155,8 @@ section:last-child {
 .sectionContent ul {
 	list-style-type: 'disc';
 	margin-top: 2px;
-	margin-bottom: 12px;
+	margin-bottom: 15px;
+	line-height:1.5em;
 }
 
 .sectionContent  ul li {
