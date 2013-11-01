@@ -29,7 +29,7 @@ p {
 
 #cv {
 	width: 90%;
-	max-width: 850px;
+	max-width: 900px;
 	background: #fffff;
 	margin: 30px auto;
 }
@@ -140,8 +140,8 @@ section:last-child {
 }
 .sectionContent h2 {
 	font-family: "PT Sans", sans-serif;
-	font-size: 1.15em;
-	margin-bottom: -3px;
+	font-size: 1.05em;
+	margin-bottom: 0px;
 	color: #9f4b16;
 }
 
