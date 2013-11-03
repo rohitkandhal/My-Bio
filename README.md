@@ -1,7 +1,7 @@
-My-Bio
+Rohit Kandhal's Bio page
 ======
 
-This project is My personal homepage which is a simple HTML page. (www4.ncsu.edu/~rkandha)
+This project is my personal website summarizing my work and contributions. (http://www4.ncsu.edu/~rkandha)
 
-I use it to test basic CSS stuff and on-going BootStrap learning. It is hosted on server which unfortunately does not
-support JavaScript.
+I use it to test CSS and learn front-end development.
+It is hosted on a server which unfortunately does not support JavaScript.
